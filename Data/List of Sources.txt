@@ -1,0 +1,4 @@
+Local area boundary: https://opendata.vancouver.ca/explore/dataset/local-area-boundary/export/
+Yelp data: https://www.kaggle.com/yelp-dataset/yelp-dataset
+Yelp business categories: https://blog.yelp.com/2018/01/yelp_category_list
+Vancouver Bus Stops: https://abacus.library.ubc.ca/file.xhtml?persistentId=hdl:11272.1/AB2/LMLPT1/AWQHZU&version=1.0
